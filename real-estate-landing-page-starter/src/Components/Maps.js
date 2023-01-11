@@ -20,5 +20,5 @@ class Maps extends Component{
 }
 
 export default GoogleApiWrapper({
-    apiKey:"AIzaSyC_JrPtwvy4w1RqMH1Tg8b3rbneVbnUEnQ"
+    apiKey:"your_api_key"
 })(Maps)
